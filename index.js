@@ -20,5 +20,5 @@ function logWhisper(string) {
   return "I can't hear you!"
     }
 
-
+}
 
